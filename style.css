@@ -83,7 +83,7 @@ hr{
 
 .hero {
     padding: 2rem;
-    padding-top: 5rem;
+    padding-top: 3rem;
 }
 
 .hero .hero-img {
@@ -136,4 +136,7 @@ hr{
 }
 .footer .ul {
     padding-inline-start: 0px;
+}
+.date{
+    margin-bottom: 2rem;
 }
